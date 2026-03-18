@@ -80,7 +80,7 @@ Raw CSV data (590k transactions)
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Pradyumna047/Fraud_detection.git
-cd hawk-fraud-detection
+cd Fraud_detection
 ```
 
 ### 2. Create virtual environment
@@ -122,7 +122,7 @@ Opens at `http://localhost:8501`
 
 ## 📁 Project Structure
 ```
-hawk-fraud-detection/
+Fraud_detection/
 │
 ├── data/
 │   ├── raw/                    ← Original Kaggle CSVs (not committed)
